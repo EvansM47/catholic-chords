@@ -1,5 +1,5 @@
 /* Offline-first service worker for Hymns (Android PWA installable). */
-const CACHE = 'choir-hymns-v41';
+const CACHE = 'choir-hymns-v42';
 const CORE = [
   './',
   './index.html',

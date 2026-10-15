@@ -716,7 +716,7 @@ mark { background: #fbe3a7; color: inherit; border-radius: 4px; padding: 0 3px; 
 .credit-card h2 { margin: 6px 0 8px; line-height: 1.2; }
 .credit-card p { margin: 0; }
 .creator-card { display: flex; flex-direction: column; align-items: flex-start; }
-.github-placeholder { margin-top: auto; padding-top: 18px; color: var(--primary); font-size: 13px; font-weight: 750; }
+.github-link { margin-top: auto; padding-top: 18px; color: var(--primary); font-size: 13px; font-weight: 750; }
 .vincentian-card { display: flex; align-items: center; gap: 16px; }
 .vincentian-card img { width: min(38%,170px); max-height: 170px; object-fit: contain; flex: none; }
 .vincentian-card > div { min-width: 0; }
