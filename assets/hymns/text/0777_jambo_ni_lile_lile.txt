@@ -1,0 +1,16 @@
+HYMN_NUMBER: 777
+TITLE: JAMBO NI LILE LILE
+BOOK_NUMBER: 584
+CATEGORY: PRAYER
+
+VERSE 1:
+Jambo ni lile lile kuomba x2
+Jambo ni lile lile, kuomba
+Jambo ni lile lile kuomba
+Paulo na Sila, walipokua gerezani,
+maombi yao, Mungu aliyasikiliza
+Wengine wengi, walipopata majaribu,
+walimwomba Mungu, yeye aliwasikiliza.
+Ukipatwa na shida, jambo ni lile kuomba
+ukipata majaribu, jambo ni lile kuomba
+

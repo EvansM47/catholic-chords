@@ -1,0 +1,15 @@
+HYMN_NUMBER: 672
+TITLE: MUNGU WETU NI WA AJABU
+BOOK_NUMBER: 354
+CATEGORY: PRAISE
+
+VERSE 1:
+Mungu wetu ni wa ajabu x3
+Kanitoa wapi kaniweka wapi
+Kanitoa chini kaniweka kati
+Kanitoa kati kaniweka juu
+Mungu wetu ni wa ajabu
+Mungu wetu ni wa amani
+Mungu wetu ni wa upendo
+Mungu wetu ni wa Baraka
+

@@ -1,0 +1,8 @@
+{
+  "appId": "org.vrcthika.choirhymns",
+  "appName": "Hymns",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

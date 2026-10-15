@@ -1,0 +1,25 @@
+{
+  "name": "choir-hymns",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Offline-first Choir Hymns app",
+  "scripts": {
+    "dev": "node scripts/server.js",
+    "import:hymns": "node scripts/import_hymns_formatted.js /home/evans/Downloads/All_glory_Book.pdf",
+    "seed:sqlite": "python3 scripts/seed_sqlite.py",
+    "check": "node --check src/app.js && node --check scripts/import_hymns_formatted.js && python3 -m py_compile scripts/seed_sqlite.py",
+    "android:init": "cap add android",
+    "android:sync": "cap sync android",
+    "android:build": "cap sync android && cd android && ./gradlew assembleDebug",
+    "android:open": "cap open android",
+    "www:sync": "rm -rf www && mkdir -p www/src www/assets/icons www/assets/hymns www/assets/images www/assets/prayers www/assets/vendor && cp index.html styles.css manifest.webmanifest sw.js www/ && cp src/app.js www/src/ && cp node_modules/qrcode-generator/dist/qrcode.js www/assets/vendor/ && cp assets/icons/icon-192.png assets/icons/icon-512.png www/assets/icons/ && cp assets/hymns/hymns.json assets/hymns/table_of_contents.json www/assets/hymns/ && cp assets/prayers/prayers.json www/assets/prayers/ && cp assets/images/*.svg www/assets/images/ 2>/dev/null; cp assets/images/*.png www/assets/images/ 2>/dev/null; cp assets/images/*.jpg www/assets/images/ 2>/dev/null; true && npx cap sync android",
+    "import:prayers": "python3 scripts/import_prayers.py /home/evans/Downloads/CHRIST_IS_ALL_BOOK.pdf"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "exceljs": "^4.4.0",
+    "qrcode-generator": "^2.0.4"
+  }
+}

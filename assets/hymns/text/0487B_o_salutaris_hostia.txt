@@ -1,0 +1,13 @@
+HYMN_NUMBER: 487B
+TITLE: O SALUTARIS HOSTIA
+
+VERSE 1:
+O Salutaris Hostia
+Quae coeli pandis ostium
+Bella premunt hostilia
+Da robur fer auxilium
+Uni trinoque Domino
+Sit sempi terna gloria
+Qui vitam sine termino
+Nobis donet in patria Amen.
+

@@ -1,0 +1,5084 @@
+[
+  {
+    "number": 1,
+    "title": "Amecea",
+    "page": 1,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 2,
+    "title": "Centinary",
+    "page": 1,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 3,
+    "title": "Embakasi",
+    "page": 2,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 4,
+    "title": "Fadhili",
+    "page": 3,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 5,
+    "title": "Faraja",
+    "page": 3,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 6,
+    "title": "Furaha",
+    "page": 4,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 7,
+    "title": "Iniani",
+    "page": 5,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 8,
+    "title": "Jericho",
+    "page": 5,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 9,
+    "title": "Kariobangi",
+    "page": 6,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 10,
+    "title": "Kenya",
+    "page": 7,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 11,
+    "title": "Luo",
+    "page": 7,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 12,
+    "title": "Magharibi",
+    "page": 8,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 13,
+    "title": "Mathare",
+    "page": 8,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 14,
+    "title": "Migori",
+    "page": 9,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 15,
+    "title": "Our lady",
+    "page": 9,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 16,
+    "title": "Shukrani",
+    "page": 10,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 17,
+    "title": "Subukia",
+    "page": 10,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 18,
+    "title": "Taita",
+    "page": 11,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 19,
+    "title": "Ulinzi",
+    "page": 12,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 20,
+    "title": "Ursulina",
+    "page": 13,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 21,
+    "title": "Gaba",
+    "page": 13,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 22,
+    "title": "Holy Spirit",
+    "page": 14,
+    "category": "SUNG MASS",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 23,
+    "title": "Ametamalaki",
+    "page": 15,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 24,
+    "title": "Amkeni",
+    "page": 15,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 25,
+    "title": "Bwana ametamalaki",
+    "page": 15,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 26,
+    "title": "Chereko",
+    "page": 15,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 27,
+    "title": "Enyi watu pigeni makofi",
+    "page": 15,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 28,
+    "title": "Hii ndiyo siku",
+    "page": 16,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 29,
+    "title": "Hodi hodi nyumbani mwako",
+    "page": 16,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 30,
+    "title": "Kanisa yetu kweli",
+    "page": 16,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 31,
+    "title": "Kunapendeza",
+    "page": 16,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 32,
+    "title": "Kwa nyimbo nzuri",
+    "page": 17,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 33,
+    "title": "Kwa nyimbo za shangwe",
+    "page": 17,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 34,
+    "title": "Kwa vigelegele na shangwe",
+    "page": 17,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 35,
+    "title": "Makofi pigeni",
+    "page": 18,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 36,
+    "title": "Mbio mbio",
+    "page": 18,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 37,
+    "title": "Mfanyieni shangwe",
+    "page": 18,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 38,
+    "title": "Mungu ametuchagua",
+    "page": 18,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 39,
+    "title": "Mwimbieni Bwana",
+    "page": 18,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 40,
+    "title": "Nainua moyo wangu",
+    "page": 19,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 41,
+    "title": "Naja kwako Bwana",
+    "page": 19,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 42,
+    "title": "Nalifurahi sana waliponiambia",
+    "page": 19,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 43,
+    "title": "Nalifurahi waliponiambia",
+    "page": 19,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 44,
+    "title": "Nalifurahia waliponiambia",
+    "page": 19,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 45,
+    "title": "Ndimi mtumishi wako",
+    "page": 20,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 46,
+    "title": "Nimefurahi kwa sababu",
+    "page": 20,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 47,
+    "title": "Nimeingia hapa mahali",
+    "page": 20,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 48,
+    "title": "Nimeona",
+    "page": 20,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 49,
+    "title": "Nitajongea altare ya Mungu",
+    "page": 20,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 50,
+    "title": "Nitajongea altare yako",
+    "page": 21,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 51,
+    "title": "Nitakuimbia Mungu wangu",
+    "page": 21,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 52,
+    "title": "Nitakwenda kwa shangwe",
+    "page": 21,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 53,
+    "title": "Njooni nyote",
+    "page": 21,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 54,
+    "title": "Njooni tuimbe njooni",
+    "page": 21,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 55,
+    "title": "Njooni tumfanyie shangwe",
+    "page": 22,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 56,
+    "title": "Njooni tumwimbie",
+    "page": 22,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 57,
+    "title": "Nyanyukeni",
+    "page": 22,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 58,
+    "title": "Roho yangu na ikuimbie",
+    "page": 23,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 59,
+    "title": "Simameni watu wote",
+    "page": 23,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 60,
+    "title": "Tufurahi sote katika",
+    "page": 23,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 61,
+    "title": "Tuingie kwake Bwana",
+    "page": 23,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 62,
+    "title": "Tuingie nyumbani kwa baba",
+    "page": 23,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 63,
+    "title": "Tuingie nyumbani",
+    "page": 24,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 64,
+    "title": "Tuingie kwa Yahweh",
+    "page": 24,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 65,
+    "title": "Tumaini letu",
+    "page": 24,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 66,
+    "title": "Tusimbe ffenna",
+    "page": 24,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 67,
+    "title": "Twende nyumbani",
+    "page": 25,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 68,
+    "title": "Twende sote nyumbani",
+    "page": 25,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 69,
+    "title": "Twendeni tuingie kwake",
+    "page": 25,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 70,
+    "title": "Twendeni tuingie nyumba",
+    "page": 25,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 71,
+    "title": "Twendeni wote",
+    "page": 26,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 72,
+    "title": "Tuimbe kwa shangwe",
+    "page": 26,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 73,
+    "title": "Twimbe masifu yake Mungu",
+    "page": 26,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 74,
+    "title": "Twendeni tuingie kwake",
+    "page": 26,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 75,
+    "title": "Simama imara",
+    "page": 27,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 76,
+    "title": "Wakristu wote simameni",
+    "page": 27,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 77,
+    "title": "Waumini",
+    "page": 27,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 78,
+    "title": "All the earth",
+    "page": 27,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 79,
+    "title": "Enter rejoice and come in",
+    "page": 28,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 80,
+    "title": "Come my brothers",
+    "page": 28,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 81,
+    "title": "I will enter his gates",
+    "page": 28,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 82,
+    "title": "Jesus the Saviour",
+    "page": 28,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 83,
+    "title": "Oh when the saints",
+    "page": 28,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 84,
+    "title": "Then sings my soul",
+    "page": 28,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE IV"
+  },
+  {
+    "number": 85,
+    "title": "To God be the glory",
+    "page": 29,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 86,
+    "title": "We are gathering together",
+    "page": 29,
+    "category": "ENTRANCE",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 87,
+    "title": "Aluta continua",
+    "page": 30,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 88,
+    "title": "Bwana akubariki",
+    "page": 30,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 89,
+    "title": "Iende mbele injili",
+    "page": 30,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 90,
+    "title": "Inasonga mbele injili",
+    "page": 30,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 91,
+    "title": "Injili yake Yesu",
+    "page": 30,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 92,
+    "title": "Kwa imani yangu",
+    "page": 31,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 93,
+    "title": "Maneno yote",
+    "page": 31,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 94,
+    "title": "Mbio mbio",
+    "page": 31,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 95,
+    "title": "Neno litasimama",
+    "page": 31,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 96,
+    "title": "Ni neno toka",
+    "page": 31,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 97,
+    "title": "Nitakwenda naye Mwokozi",
+    "page": 31,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 98,
+    "title": "Nitatangaza neno",
+    "page": 32,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 99,
+    "title": "Panda milimani",
+    "page": 32,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 100,
+    "title": "Sauti yake Bwana",
+    "page": 32,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 101,
+    "title": "Silaha ya mapambano",
+    "page": 32,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 102,
+    "title": "Tusipotangaza",
+    "page": 32,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 103,
+    "title": "Ukiitwa na Yesu",
+    "page": 32,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 104,
+    "title": "Walipomuua Yesu",
+    "page": 33,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 105,
+    "title": "Seek ye first",
+    "page": 33,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 106,
+    "title": "Nating'o Muma",
+    "page": 33,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 107,
+    "title": "Ndeto ya Mwiai",
+    "page": 33,
+    "category": "GOSPEL PROCESSION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 108,
+    "title": "Alfajiri ya kupendeza",
+    "page": 34,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 109,
+    "title": "Ee Baba pokea vipaji hivi",
+    "page": 34,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 110,
+    "title": "Ee Bwana pokea sadaka",
+    "page": 34,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 111,
+    "title": "Ee Bwana twakuomba",
+    "page": 34,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 112,
+    "title": "Hiki kidogo kikakupendeza",
+    "page": 35,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 113,
+    "title": "Hima hima",
+    "page": 35,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 114,
+    "title": "Mkate huu kipaji chetu",
+    "page": 35,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 115,
+    "title": "Mkristu simama",
+    "page": 35,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 116,
+    "title": "Mpeni Mungu mali yake",
+    "page": 36,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 117,
+    "title": "Mungu baba, pokea",
+    "page": 36,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 118,
+    "title": "Mungu muumba",
+    "page": 36,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 119,
+    "title": "Mungu pokea sadaka hii",
+    "page": 36,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 120,
+    "title": "Nikupe nini cha kukupendeza",
+    "page": 36,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 121,
+    "title": "Nikupe nini Mungu wangu",
+    "page": 37,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 122,
+    "title": "Nikupe nini Mungu wangu",
+    "page": 37,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 123,
+    "title": "Nitakwenda mwenyewe",
+    "page": 37,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 124,
+    "title": "Nitatoa nini mimi",
+    "page": 38,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 125,
+    "title": "Njoni watu wote",
+    "page": 38,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 126,
+    "title": "Pokea ombi letu",
+    "page": 38,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 127,
+    "title": "Rudisheni talenta zenu",
+    "page": 38,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 128,
+    "title": "Sasa wakati umefika",
+    "page": 39,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 129,
+    "title": "Toa toa",
+    "page": 39,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 130,
+    "title": "Toeni sadaka",
+    "page": 39,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 131,
+    "title": "Tupeleke kwa Bwana",
+    "page": 39,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 132,
+    "title": "Tusimame ndugu",
+    "page": 40,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 133,
+    "title": "Tutoe sadaka",
+    "page": 40,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 134,
+    "title": "Twaja mbele zako",
+    "page": 40,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 135,
+    "title": "Twende wote",
+    "page": 40,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 136,
+    "title": "Wakati sasa umeshafika",
+    "page": 40,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 137,
+    "title": "Fill my house",
+    "page": 41,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 138,
+    "title": "In bread we bring you Lord",
+    "page": 41,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 139,
+    "title": "Take our bread",
+    "page": 41,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 140,
+    "title": "The gift of my heart",
+    "page": 41,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 141,
+    "title": "What return to Yahweh",
+    "page": 42,
+    "category": "OFFERTORY",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 142,
+    "title": "Baba tunaleta vipaji",
+    "page": 42,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 143,
+    "title": "Bwana upokee",
+    "page": 42,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 144,
+    "title": "Ee baba twaleta zawadi",
+    "page": 43,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 145,
+    "title": "Ee Bwana",
+    "page": 43,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 146,
+    "title": "Ee Bwana vyote mali yako",
+    "page": 43,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 147,
+    "title": "Malaika wa Bwana",
+    "page": 43,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 148,
+    "title": "Nakuja mbele zako",
+    "page": 43,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 149,
+    "title": "Naondoka mimi",
+    "page": 44,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 150,
+    "title": "Njoo malaika",
+    "page": 44,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 151,
+    "title": "Pokea baba zawadi",
+    "page": 44,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 152,
+    "title": "Pokea ee baba",
+    "page": 44,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 153,
+    "title": "Pokea zawadi zetu Baba",
+    "page": 45,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 154,
+    "title": "Sadaka tunaleta",
+    "page": 45,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 155,
+    "title": "Sala yangu ipae",
+    "page": 45,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 156,
+    "title": "Tunakuja na vipaji vyetu",
+    "page": 45,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 157,
+    "title": "Utukuzwe",
+    "page": 45,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 158,
+    "title": "Blest are you",
+    "page": 46,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 159,
+    "title": "We bring the sacrifice",
+    "page": 46,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 160,
+    "title": "Banso ee (Mungu muumba)",
+    "page": 46,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 161,
+    "title": "Bino bihanwa",
+    "page": 46,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 162,
+    "title": "Ee mfumwe yamba",
+    "page": 47,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 163,
+    "title": "Matega maitu",
+    "page": 47,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 164,
+    "title": "Matega maya twakurehere",
+    "page": 47,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 165,
+    "title": "Owinjore water chiwo",
+    "page": 47,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 166,
+    "title": "Wi mukumie wee Mwathani",
+    "page": 47,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 167,
+    "title": "Yamba",
+    "page": 48,
+    "category": "PRESENTATION",
+    "toc_page": "PAGE V"
+  },
+  {
+    "number": 168,
+    "title": "Amani ya Bwana Yesu",
+    "page": 48,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 169,
+    "title": "Amani ya Mungu Baba",
+    "page": 48,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 170,
+    "title": "Mungu wetu ni wa amani",
+    "page": 48,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 171,
+    "title": "Ni wakati wa amani",
+    "page": 48,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 172,
+    "title": "Tunaomba amani",
+    "page": 49,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 173,
+    "title": "Tupe amani wololo",
+    "page": 49,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 174,
+    "title": "Tutakiane amani",
+    "page": 49,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 175,
+    "title": "Ukitaka amani",
+    "page": 49,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 176,
+    "title": "Make me a channel",
+    "page": 49,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 177,
+    "title": "Niwara nono",
+    "page": 49,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 178,
+    "title": "Omorenbe",
+    "page": 50,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 179,
+    "title": "Thayu wa Kristo",
+    "page": 50,
+    "category": "PEACE",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 180,
+    "title": "Alhamisi kuu",
+    "page": 50,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 181,
+    "title": "Amin nawaambieni",
+    "page": 50,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 182,
+    "title": "Anatualika Bwana Yesu",
+    "page": 51,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 183,
+    "title": "Anayekula mwili wangu",
+    "page": 51,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 184,
+    "title": "Atualika Kristu",
+    "page": 51,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 185,
+    "title": "Aulaye mwili wangu",
+    "page": 52,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 186,
+    "title": "Bahati bahati",
+    "page": 52,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 187,
+    "title": "Bwana atuita",
+    "page": 52,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 188,
+    "title": "Bwana roho zetu",
+    "page": 52,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 189,
+    "title": "Bwana akawaambia",
+    "page": 53,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 190,
+    "title": "Chakula bora",
+    "page": 53,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 191,
+    "title": "Ee bwana sistahili",
+    "page": 53,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 192,
+    "title": "Ee bwana sistahili",
+    "page": 53,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 193,
+    "title": "Ee Bwana umetoa mkate",
+    "page": 53,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 194,
+    "title": "Ekaristia ni chakula",
+    "page": 54,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 195,
+    "title": "Ewe Yesu wangu mpenzi",
+    "page": 54,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 196,
+    "title": "Hii ni ekaristi",
+    "page": 54,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 197,
+    "title": "Hii ni karamu",
+    "page": 54,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 198,
+    "title": "Hiki ni chakula cha mbingu",
+    "page": 55,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 199,
+    "title": "Huyu ndiye Yesu",
+    "page": 55,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 200,
+    "title": "Karibu Bwana njoo",
+    "page": 55,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 201,
+    "title": "Karibu mezani",
+    "page": 56,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 202,
+    "title": "Karibu moyoni mwangu",
+    "page": 56,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 203,
+    "title": "Kikondoo cha Mungu",
+    "page": 56,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 204,
+    "title": "Kuleni mwili wangu",
+    "page": 56,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 205,
+    "title": "Kwa nini nisimpokee",
+    "page": 57,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 206,
+    "title": "Meza yako meza ya mapendo",
+    "page": 57,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 207,
+    "title": "Mezani pake",
+    "page": 57,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 208,
+    "title": "Mimi ndimi mzabibu",
+    "page": 57,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 209,
+    "title": "Mimi ni mkate wa uzima",
+    "page": 57,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 210,
+    "title": "Moyo wangu ni mfano",
+    "page": 58,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 211,
+    "title": "Mwili wa Bwana",
+    "page": 58,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 212,
+    "title": "Mwili wa Bwana Yesu",
+    "page": 58,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 213,
+    "title": "Nakula mwili wa Yesu",
+    "page": 58,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 214,
+    "title": "Nasikia Yesu",
+    "page": 59,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 215,
+    "title": "Ndiyo dhamana",
+    "page": 59,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 216,
+    "title": "Ni nani kama Bwana Yesu",
+    "page": 59,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 217,
+    "title": "Nina Yesu moyoni mwangu",
+    "page": 60,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 218,
+    "title": "Ninakupenda ewe Mwokozi",
+    "page": 60,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 219,
+    "title": "Niruhusu Yesu wangu",
+    "page": 60,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 220,
+    "title": "Nitanjongea meza yako",
+    "page": 60,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 221,
+    "title": "Njoni wote kula",
+    "page": 61,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 222,
+    "title": "Onjeni muone",
+    "page": 61,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 223,
+    "title": "Onjeni muone Bwana",
+    "page": 61,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 224,
+    "title": "Pokea moyo wangu",
+    "page": 61,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 225,
+    "title": "Roho yangu Yesu",
+    "page": 62,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 226,
+    "title": "Tazameni karamu ya Bwana",
+    "page": 62,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 227,
+    "title": "Tazameni meza ya Bwana",
+    "page": 62,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 228,
+    "title": "Tukampokee Bwana Yesu",
+    "page": 62,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 229,
+    "title": "Twaeni mle wote",
+    "page": 63,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 230,
+    "title": "Twende ndugu twende",
+    "page": 63,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 231,
+    "title": "Twendeni kwa karamu",
+    "page": 63,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 232,
+    "title": "Twendeni wote kwa Bwana",
+    "page": 63,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 233,
+    "title": "Yesu wangu mpenzi",
+    "page": 64,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 234,
+    "title": "Yumo humu",
+    "page": 64,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 235,
+    "title": "Roho ya Yesu",
+    "page": 64,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 236,
+    "title": "As a deer panteth",
+    "page": 65,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 237,
+    "title": "Blessed assurance",
+    "page": 65,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 238,
+    "title": "Bread of heaven",
+    "page": 65,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 239,
+    "title": "Bridge over troubled water",
+    "page": 65,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 240,
+    "title": "Come to my heart Jesus",
+    "page": 66,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 241,
+    "title": "I am the bread of life",
+    "page": 66,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 242,
+    "title": "I need thee every hour",
+    "page": 66,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 243,
+    "title": "Jesus lover of my soul",
+    "page": 67,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 244,
+    "title": "Jesus my Lord",
+    "page": 67,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 245,
+    "title": "Jesus thou art coming",
+    "page": 67,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 246,
+    "title": "Let all mortal flesh",
+    "page": 68,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 247,
+    "title": "No not one",
+    "page": 68,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 248,
+    "title": "Oh Lord I am not worthy",
+    "page": 69,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 249,
+    "title": "Stay with me",
+    "page": 69,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 250,
+    "title": "Through the Eucharist",
+    "page": 69,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 251,
+    "title": "What a friend we have",
+    "page": 69,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 252,
+    "title": "Soul of my saviour",
+    "page": 70,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 253,
+    "title": "Chiegni duogo",
+    "page": 70,
+    "category": "COMMUNION",
+    "toc_page": "PAGE VI"
+  },
+  {
+    "number": 254,
+    "title": "Ameweza",
+    "page": 71,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 255,
+    "title": "Asante Bwana Yesu",
+    "page": 71,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 256,
+    "title": "Asante yYesu asante",
+    "page": 71,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 257,
+    "title": "Asubuhi nitakuimbia",
+    "page": 71,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 259,
+    "title": "Kongoi mising",
+    "page": 72,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 260,
+    "title": "Mataifa ya ulimwengu",
+    "page": 72,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 261,
+    "title": "Mimina neema",
+    "page": 72,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 262,
+    "title": "Moyu wangu funguka",
+    "page": 73,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 263,
+    "title": "Mshukuruni Mwokozi",
+    "page": 73,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 264,
+    "title": "Mungu sisi ututawale",
+    "page": 73,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 265,
+    "title": "Ngoja nicheze",
+    "page": 73,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 266,
+    "title": "Nani ni nani",
+    "page": 74,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 267,
+    "title": "Nimeonja pendo lako",
+    "page": 74,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 268,
+    "title": "Ni neema",
+    "page": 74,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 269,
+    "title": "Nipishe njia",
+    "page": 75,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 270,
+    "title": "Nitakushukuru",
+    "page": 75,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 271,
+    "title": "Pokea sifa zangu",
+    "page": 75,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 272,
+    "title": "Shukrani zetu Baba",
+    "page": 76,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 273,
+    "title": "Twakushukuru",
+    "page": 76,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 274,
+    "title": "Yesu asante",
+    "page": 76,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 275,
+    "title": "Yesu asante kwa mwili wako",
+    "page": 76,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 276,
+    "title": "Give thanks",
+    "page": 76,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 277,
+    "title": "Ngwanirira ndi gikeno",
+    "page": 77,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 278,
+    "title": "Twitunga muvea mwiai",
+    "page": 77,
+    "category": "THANKSGIVING",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 279,
+    "title": "Apewe sifa",
+    "page": 77,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 280,
+    "title": "Bwana Yesu alitamka",
+    "page": 78,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 281,
+    "title": "Ee Mungu wangu",
+    "page": 78,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 282,
+    "title": "Enda nasi Bwana",
+    "page": 78,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 283,
+    "title": "Mungu yule",
+    "page": 78,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 284,
+    "title": "Nakaza mwendo",
+    "page": 79,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 285,
+    "title": "Nimeahidi Yesu",
+    "page": 79,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 286,
+    "title": "Nimepiga vita",
+    "page": 79,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 287,
+    "title": "Nime vipiga vita",
+    "page": 80,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 288,
+    "title": "Nyota ya mashariki",
+    "page": 80,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 290,
+    "title": "Count your blessings",
+    "page": 80,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 291,
+    "title": "Here I am, Lord",
+    "page": 81,
+    "category": "RECESSION",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 292,
+    "title": "Asante mama wa Yesu",
+    "page": 82,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 293,
+    "title": "Ave Maria",
+    "page": 82,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 294,
+    "title": "Baragumu la Maria",
+    "page": 82,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 295,
+    "title": "Bikira Maria uliyekingiwa",
+    "page": 82,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 296,
+    "title": "Ee mama yetu Maria",
+    "page": 82,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 297,
+    "title": "Ee Maria",
+    "page": 83,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 298,
+    "title": "Ewe Maria umebarikiwa",
+    "page": 83,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 299,
+    "title": "Ishara kubwa",
+    "page": 83,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 300,
+    "title": "Jina Maria",
+    "page": 83,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 301,
+    "title": "Mama Maria",
+    "page": 84,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 302,
+    "title": "Mama Maria mama",
+    "page": 84,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 303,
+    "title": "Mama mzazi wa Mungu",
+    "page": 84,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 304,
+    "title": "Mama yetu Maria",
+    "page": 84,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 305,
+    "title": "Maria Bikira tumshangilie",
+    "page": 85,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 306,
+    "title": "Maria mwombezi",
+    "page": 85,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 307,
+    "title": "Moyo wangu wamtukuza",
+    "page": 85,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 308,
+    "title": "Niongoze vyema Maria",
+    "page": 85,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 309,
+    "title": "Niseme nini basi",
+    "page": 86,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 310,
+    "title": "Nitaweka uadui",
+    "page": 86,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 311,
+    "title": "Nyota ya bahari",
+    "page": 86,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 312,
+    "title": "Ombi moja twalileta",
+    "page": 86,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 313,
+    "title": "Pamoja na malaika",
+    "page": 87,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 314,
+    "title": "Salamu, ewe mzazi",
+    "page": 87,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 315,
+    "title": "Salamu Mama wa Fatima",
+    "page": 87,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 316,
+    "title": "Salamu salamu malkia",
+    "page": 87,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 317,
+    "title": "Salamu, malkia",
+    "page": 87,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 318,
+    "title": "Salamu, mama, salamu",
+    "page": 88,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 319,
+    "title": "Salamu, Maria, umebarikiwa",
+    "page": 88,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 320,
+    "title": "Tazameni nyota ya asubuhi",
+    "page": 88,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 321,
+    "title": "Tufurahi sote katika bwana",
+    "page": 88,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 322,
+    "title": "Tumsifu Maria",
+    "page": 88,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 323,
+    "title": "Tunakimbilia ulinzi wako",
+    "page": 89,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 324,
+    "title": "Tunakusalimu",
+    "page": 89,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 325,
+    "title": "Tunakusalimu, ee Maria",
+    "page": 89,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 326,
+    "title": "Tunakushukuru",
+    "page": 89,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 327,
+    "title": "Twakusalimu, ewe mama Maria",
+    "page": 90,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 328,
+    "title": "Twakukimbilia Maria",
+    "page": 90,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 329,
+    "title": "Umshihi mwanao Yesu",
+    "page": 90,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 330,
+    "title": "Una baraka, ewe Maria",
+    "page": 90,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 331,
+    "title": "Usia wa mama Maria",
+    "page": 90,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 332,
+    "title": "Uwe mdhamini wangu",
+    "page": 91,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 333,
+    "title": "Ave Maria, gratia plena",
+    "page": 91,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 334,
+    "title": "Come with us Mary",
+    "page": 91,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 335,
+    "title": "Every day",
+    "page": 91,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 336,
+    "title": "Hail holy queen",
+    "page": 92,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 337,
+    "title": "Hail queen of heaven",
+    "page": 92,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 338,
+    "title": "Immaculate mary",
+    "page": 92,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 339,
+    "title": "Madonna",
+    "page": 92,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 340,
+    "title": "Mary loving mother",
+    "page": 93,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 341,
+    "title": "O most Blessed",
+    "page": 93,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VII"
+  },
+  {
+    "number": 342,
+    "title": "O sanctissima",
+    "page": 93,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 343,
+    "title": "Salve regina",
+    "page": 93,
+    "category": "MARIAN SONGS",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 344,
+    "title": "Ainuliwe Mungu wetu leo",
+    "page": 94,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 345,
+    "title": "Bwana wa majeshi leo",
+    "page": 94,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 346,
+    "title": "Ee baba pokea sifa",
+    "page": 94,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 347,
+    "title": "Hakuna Mungu kama wewe",
+    "page": 94,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 348,
+    "title": "Hapo tumefika Baba",
+    "page": 95,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 349,
+    "title": "Imba Alleluia Hossana",
+    "page": 95,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 350,
+    "title": "Inuka msifu Bwana",
+    "page": 95,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 351,
+    "title": "Kitu gani kitanitenga",
+    "page": 95,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 352,
+    "title": "Mambo sawa sawa",
+    "page": 95,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 353,
+    "title": "Msifu Bwana",
+    "page": 95,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 354,
+    "title": "Mungu wetu ni wa ajabu",
+    "page": 96,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 355,
+    "title": "Mwamba mwamba",
+    "page": 96,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 356,
+    "title": "Na iwe iwe shangwe",
+    "page": 96,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 357,
+    "title": "Nimkimbilie nani",
+    "page": 96,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 358,
+    "title": "Nitakupa sifa",
+    "page": 96,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 359,
+    "title": "Umwema Baba",
+    "page": 96,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 360,
+    "title": "Watu wote",
+    "page": 96,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 361,
+    "title": "Asante Yesu",
+    "page": 97,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 362,
+    "title": "Bwana tunakushukuru",
+    "page": 97,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 364,
+    "title": "Did you find them",
+    "page": 97,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 365,
+    "title": "Give me joy in my heart",
+    "page": 97,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 366,
+    "title": "Good morning",
+    "page": 98,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 367,
+    "title": "Hosanna",
+    "page": 98,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 368,
+    "title": "I will sing hossana",
+    "page": 98,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 369,
+    "title": "Jambo Jesus loves you",
+    "page": 98,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 370,
+    "title": "Jehovah has the final say",
+    "page": 98,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 371,
+    "title": "Praising the Lord",
+    "page": 98,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 372,
+    "title": "Sing for joy",
+    "page": 99,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 373,
+    "title": "What a mighty god we serve",
+    "page": 99,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 374,
+    "title": "When Jesus say yes",
+    "page": 99,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 375,
+    "title": "You are so faithful",
+    "page": 99,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 376,
+    "title": "You are the king of kings",
+    "page": 99,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 377,
+    "title": "Give thanks",
+    "page": 99,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 378,
+    "title": "Thank you Father",
+    "page": 100,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 379,
+    "title": "Thank you my Lord",
+    "page": 100,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 380,
+    "title": "Lord I lift your name",
+    "page": 100,
+    "category": "PRAISE",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 381,
+    "title": "Chanzo cha uhai wangu",
+    "page": 100,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 382,
+    "title": "Haufananishwi",
+    "page": 100,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 383,
+    "title": "Karibu Yesu moyoni mwangu",
+    "page": 101,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 384,
+    "title": "Kweli wewe wewe ni Mungu",
+    "page": 101,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 385,
+    "title": "Mataifa yanakufahamu",
+    "page": 101,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 386,
+    "title": "Mataifa yatakusanyika",
+    "page": 101,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 387,
+    "title": "Mungu Baba",
+    "page": 101,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 388,
+    "title": "Mungu yuko hapa",
+    "page": 102,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 389,
+    "title": "Mwenye enzi",
+    "page": 102,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 390,
+    "title": "Nani kama wewe",
+    "page": 102,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 391,
+    "title": "Ni wewe wa kuabudiwa",
+    "page": 102,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 392,
+    "title": "Ninapenda nikuabudu",
+    "page": 103,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 393,
+    "title": "Pokea sifa",
+    "page": 103,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 394,
+    "title": "Twakuabudu, twakuabudu",
+    "page": 103,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 395,
+    "title": "Umetukuka twakuheshimu",
+    "page": 103,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 396,
+    "title": "Unaweza ee Mwokozi",
+    "page": 103,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 397,
+    "title": "Upewe sifa",
+    "page": 103,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 398,
+    "title": "Utukufu na heshima",
+    "page": 104,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 399,
+    "title": "Wa ajabu (wewe wa ajabu)",
+    "page": 104,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 400,
+    "title": "Wakuabudiwa",
+    "page": 104,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 401,
+    "title": "Wastahili bwana",
+    "page": 104,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 402,
+    "title": "Ye taata",
+    "page": 105,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 403,
+    "title": "Yesu ni Mungu wangu",
+    "page": 105,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 404,
+    "title": "Abba Father",
+    "page": 105,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 405,
+    "title": "Above all",
+    "page": 105,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 406,
+    "title": "All heavens declare",
+    "page": 105,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 407,
+    "title": "Alleluia",
+    "page": 106,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 408,
+    "title": "Alleluia Jesus we worship",
+    "page": 106,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 409,
+    "title": "Am no longer a slave",
+    "page": 106,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 410,
+    "title": "Be glorified",
+    "page": 106,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 411,
+    "title": "Be glorified Abba Father",
+    "page": 106,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 412,
+    "title": "Be lifted",
+    "page": 106,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 413,
+    "title": "Bless the Lord oh my soul",
+    "page": 107,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 414,
+    "title": "Christ be beside me",
+    "page": 107,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 415,
+    "title": "Christ is enough",
+    "page": 107,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 416,
+    "title": "Come now is the time",
+    "page": 107,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 417,
+    "title": "Father I love you",
+    "page": 107,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 418,
+    "title": "Father we adore you",
+    "page": 108,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 419,
+    "title": "For you alone",
+    "page": 108,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 420,
+    "title": "Glorious God",
+    "page": 108,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 421,
+    "title": "God of wonders",
+    "page": 108,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 422,
+    "title": "I come to thee",
+    "page": 108,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 423,
+    "title": "Here I am to worship",
+    "page": 109,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 424,
+    "title": "Hide me now",
+    "page": 109,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 425,
+    "title": "I desire jesus",
+    "page": 109,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 426,
+    "title": "I have a maker",
+    "page": 109,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 427,
+    "title": "I made it",
+    "page": 110,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 428,
+    "title": "I need you more",
+    "page": 110,
+    "category": "WORSHIP",
+    "toc_page": "PAGE VIII"
+  },
+  {
+    "number": 429,
+    "title": "Lord you are too faithful",
+    "page": 110,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 430,
+    "title": "Oh come let us adore Him",
+    "page": 110,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 431,
+    "title": "Oh precious saviour",
+    "page": 111,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 432,
+    "title": "Reject me not",
+    "page": 111,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 433,
+    "title": "Shepherd of my soul",
+    "page": 111,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 434,
+    "title": "Open the eyes of my heart",
+    "page": 111,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 435,
+    "title": "The blessing",
+    "page": 111,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 436,
+    "title": "The blessing",
+    "page": 112,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 437,
+    "title": "There is a Redeemer",
+    "page": 112,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 438,
+    "title": "We love you father",
+    "page": 112,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 439,
+    "title": "Wonderful merciful",
+    "page": 113,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 440,
+    "title": "Worship the Lord",
+    "page": 113,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 441,
+    "title": "You are Alpha and Omega",
+    "page": 113,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 442,
+    "title": "You are my refuge",
+    "page": 113,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 443,
+    "title": "You are Yahweh",
+    "page": 113,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 444,
+    "title": "You are my everything",
+    "page": 113,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 445,
+    "title": "My Jesus my saviour",
+    "page": 114,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 446,
+    "title": "Yeshua",
+    "page": 114,
+    "category": "WORSHIP",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 447,
+    "title": "All to Jesus I surrender",
+    "page": 115,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 448,
+    "title": "Do in me",
+    "page": 115,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 449,
+    "title": "Here I am lord",
+    "page": 115,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 450,
+    "title": "I give you my heart",
+    "page": 115,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 451,
+    "title": "I surrender",
+    "page": 115,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 452,
+    "title": "Lord I offer my life to you",
+    "page": 116,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 453,
+    "title": "My soul says yes",
+    "page": 116,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 454,
+    "title": "New wine",
+    "page": 116,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 455,
+    "title": "Unto you I surrender",
+    "page": 117,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 456,
+    "title": "Withholding nothing",
+    "page": 117,
+    "category": "SURRENDER",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 457,
+    "title": "Ee baba wewe ni Baba",
+    "page": 117,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 458,
+    "title": "Kama sio wewe",
+    "page": 117,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 459,
+    "title": "Mungu ni pendo",
+    "page": 118,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 460,
+    "title": "Naakupenda Yesu",
+    "page": 118,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 461,
+    "title": "Tazama tazama",
+    "page": 118,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 462,
+    "title": "Tukipenda wenzetu",
+    "page": 118,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 463,
+    "title": "Uninyunyiziae maji",
+    "page": 118,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 464,
+    "title": "Yesu mwema",
+    "page": 118,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 465,
+    "title": "Nijaposema kwa lugha",
+    "page": 119,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 466,
+    "title": "Amazing grace",
+    "page": 119,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 467,
+    "title": "God's love",
+    "page": 119,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 468,
+    "title": "God's love endures forever",
+    "page": 119,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 469,
+    "title": "How deep",
+    "page": 119,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 470,
+    "title": "I love you",
+    "page": 120,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 471,
+    "title": "I love you Jesus",
+    "page": 120,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 472,
+    "title": "I love you, Lord",
+    "page": 120,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 473,
+    "title": "Jesus i'm in love with you",
+    "page": 120,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 474,
+    "title": "Jesus loves me",
+    "page": 120,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 475,
+    "title": "Jesus what a wonder",
+    "page": 121,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 476,
+    "title": "My God loves me",
+    "page": 121,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 477,
+    "title": "My Jesus I love theee",
+    "page": 121,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 478,
+    "title": "The steadfast love",
+    "page": 121,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 479,
+    "title": "To love only you",
+    "page": 121,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 480,
+    "title": "Whatsoever you do",
+    "page": 121,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 481,
+    "title": "Who am I",
+    "page": 122,
+    "category": "LOVE OF GOD",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 482,
+    "title": "Alipo Bwana",
+    "page": 123,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 483,
+    "title": "Jambo hili",
+    "page": 123,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 484,
+    "title": "Mchanganyo mchanganyo",
+    "page": 123,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 485,
+    "title": "Naamini Yesu",
+    "page": 123,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 486,
+    "title": "Waweza waweza Mwokozi",
+    "page": 123,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 487,
+    "title": "Yote yawezekana",
+    "page": 124,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 488,
+    "title": "Because he lives",
+    "page": 124,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 489,
+    "title": "Father I believe",
+    "page": 124,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 490,
+    "title": "God will make a way",
+    "page": 125,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 491,
+    "title": "He is Lord",
+    "page": 125,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 492,
+    "title": "In Christ alone",
+    "page": 125,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 493,
+    "title": "My life is in your hands",
+    "page": 125,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 494,
+    "title": "Pass me not",
+    "page": 126,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 495,
+    "title": "Show your power",
+    "page": 126,
+    "category": "FAITH",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 496,
+    "title": "Afichaye dhambi",
+    "page": 127,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 497,
+    "title": "Bwana kama wewe",
+    "page": 127,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 498,
+    "title": "Ee Bwana, unihurumie",
+    "page": 127,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 499,
+    "title": "Naja kwako nipokee",
+    "page": 127,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 500,
+    "title": "Ninaungama dhambi",
+    "page": 127,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 501,
+    "title": "Nipokee Bwana wangu",
+    "page": 127,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 502,
+    "title": "Nitakase",
+    "page": 128,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 503,
+    "title": "Uniondolee dhambi",
+    "page": 128,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 504,
+    "title": "Watumishi wake Baba",
+    "page": 128,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 505,
+    "title": "Wewe Bwana",
+    "page": 129,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 506,
+    "title": "Yesu nimechoka",
+    "page": 129,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 507,
+    "title": "Change my heart",
+    "page": 129,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 508,
+    "title": "Create in me",
+    "page": 129,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 509,
+    "title": "Create in me a clean heart",
+    "page": 129,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 510,
+    "title": "God of mercy",
+    "page": 130,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 511,
+    "title": "I am sorry I coused you pain",
+    "page": 130,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 512,
+    "title": "Lord i'm coming home",
+    "page": 130,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE IX"
+  },
+  {
+    "number": 513,
+    "title": "Purify my heart",
+    "page": 130,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 514,
+    "title": "Yes I shall arise",
+    "page": 131,
+    "category": "REPENTANCE",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 515,
+    "title": "Baba wasamehe",
+    "page": 131,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 516,
+    "title": "Baba wasamehe hawajui",
+    "page": 131,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 517,
+    "title": "Ewe Baba nimekuja kwako",
+    "page": 131,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 518,
+    "title": "Nawasamehe",
+    "page": 131,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 519,
+    "title": "Nisamehe Baba",
+    "page": 132,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 520,
+    "title": "Nisamehe Baba, Yesu, Roho",
+    "page": 132,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 521,
+    "title": "Nisamehe Mwokozi",
+    "page": 132,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 522,
+    "title": "Nisamehe Mwokozi",
+    "page": 132,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 523,
+    "title": "Nisamehe nisamehe",
+    "page": 132,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 524,
+    "title": "Tunyunyizie maji",
+    "page": 132,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 525,
+    "title": "Uninyunyizie maji",
+    "page": 132,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 526,
+    "title": "At the cross love ran red",
+    "page": 132,
+    "category": "FORGIVENESS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 527,
+    "title": "Atawale",
+    "page": 133,
+    "category": "AFTER CONFESSION",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 528,
+    "title": "Kama umesamehewa",
+    "page": 133,
+    "category": "AFTER CONFESSION",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 529,
+    "title": "Zaeni matunda mema",
+    "page": 133,
+    "category": "AFTER CONFESSION",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 530,
+    "title": "I have decided",
+    "page": 134,
+    "category": "AFTER CONFESSION",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 531,
+    "title": "Stand up for Jesus",
+    "page": 134,
+    "category": "AFTER CONFESSION",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 532,
+    "title": "The spirit comes",
+    "page": 134,
+    "category": "AFTER CONFESSION",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 533,
+    "title": "Karibu Yesu karibu",
+    "page": 135,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 534,
+    "title": "Njoo Yesu Bwana wangu",
+    "page": 135,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 535,
+    "title": "Siri ya machozi",
+    "page": 135,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 536,
+    "title": "Wewe ni wangu mtoto",
+    "page": 135,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 537,
+    "title": "Wewe ni wangu mtoto",
+    "page": 135,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 538,
+    "title": "Yesu kapita samaria",
+    "page": 135,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 539,
+    "title": "Abba, abba father",
+    "page": 136,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 540,
+    "title": "Abide with me",
+    "page": 136,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 541,
+    "title": "Draw me close",
+    "page": 136,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 542,
+    "title": "Heal me O Lord",
+    "page": 136,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 543,
+    "title": "Healer heal me",
+    "page": 136,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 544,
+    "title": "I am the God",
+    "page": 136,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 545,
+    "title": "I draw near",
+    "page": 136,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 546,
+    "title": "Lord I need you",
+    "page": 137,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 547,
+    "title": "Touch me once again",
+    "page": 137,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 548,
+    "title": "You are precious to me",
+    "page": 137,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 549,
+    "title": "I will never forget you",
+    "page": 138,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 550,
+    "title": "I'm your child Lord Jesus",
+    "page": 138,
+    "category": "INNER HEALING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 551,
+    "title": "Cha kutumaini",
+    "page": 138,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 552,
+    "title": "Damu ya mkombozi",
+    "page": 138,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 553,
+    "title": "Damu ya tiririka",
+    "page": 138,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 554,
+    "title": "Damu ya Yesu",
+    "page": 138,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 555,
+    "title": "Damu ya Yesu inatakasa",
+    "page": 139,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 556,
+    "title": "Damu ya Yesu itusafishe",
+    "page": 139,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 557,
+    "title": "Kijito cha utakaso",
+    "page": 139,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 558,
+    "title": "Are you washed",
+    "page": 139,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 559,
+    "title": "Blood of Christ",
+    "page": 139,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 560,
+    "title": "Blood of Jesus",
+    "page": 140,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 561,
+    "title": "Nothing but the blood",
+    "page": 140,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 562,
+    "title": "Oh the blood of Jesus",
+    "page": 140,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 563,
+    "title": "There is power",
+    "page": 140,
+    "category": "BLOOD OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 564,
+    "title": "Bless the Lord",
+    "page": 141,
+    "category": "NAME OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 565,
+    "title": "Bless the Lord",
+    "page": 141,
+    "category": "NAME OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 566,
+    "title": "Blessed be the name",
+    "page": 141,
+    "category": "NAME OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 567,
+    "title": "In the name of Jesus",
+    "page": 141,
+    "category": "NAME OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 568,
+    "title": "Jesus lamb of God",
+    "page": 141,
+    "category": "NAME OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 569,
+    "title": "Jesus you are Jesus",
+    "page": 142,
+    "category": "NAME OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 570,
+    "title": "Sing there is none",
+    "page": 142,
+    "category": "NAME OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 571,
+    "title": "What a beatiful name it is",
+    "page": 142,
+    "category": "NAME OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 572,
+    "title": "Yu hai milele",
+    "page": 142,
+    "category": "NAME OF JESUS",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 573,
+    "title": "Familia yangu",
+    "page": 143,
+    "category": "FAMILY",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 574,
+    "title": "Mliahidi mbele ya Mungu",
+    "page": 143,
+    "category": "FAMILY",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 576,
+    "title": "Nawapa amri",
+    "page": 143,
+    "category": "FAMILY",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 577,
+    "title": "Bind us together",
+    "page": 144,
+    "category": "FAMILY",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 578,
+    "title": "Jipe moyo",
+    "page": 144,
+    "category": "SUFFERING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 579,
+    "title": "Silaha yangu msalaba",
+    "page": 144,
+    "category": "SUFFERING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 580,
+    "title": "Vumilia roho yangu",
+    "page": 144,
+    "category": "SUFFERING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 581,
+    "title": "Waambieni watu",
+    "page": 145,
+    "category": "SUFFERING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 582,
+    "title": "Trading my sorrows",
+    "page": 145,
+    "category": "SUFFERING",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 583,
+    "title": "Asikiaye maombi",
+    "page": 145,
+    "category": "PRAYER",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 584,
+    "title": "Jambo ni lile lile",
+    "page": 145,
+    "category": "PRAYER",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 585,
+    "title": "Oh! Maishani mwangu",
+    "page": 145,
+    "category": "PRAYER",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 586,
+    "title": "Omba omba utafute uso",
+    "page": 146,
+    "category": "PRAYER",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 587,
+    "title": "Lord make me a house",
+    "page": 146,
+    "category": "PRAYER",
+    "toc_page": "PAGE X"
+  },
+  {
+    "number": 588,
+    "title": "Nina haja nawe roho",
+    "page": 146,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 589,
+    "title": "Njoo roho Mtakatifu",
+    "page": 146,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 590,
+    "title": "Njoo, wangu mfariji",
+    "page": 146,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 591,
+    "title": "Roho ninakualika",
+    "page": 147,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 592,
+    "title": "Roho Mtakatifu",
+    "page": 147,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 593,
+    "title": "Roho Mt. utuimarishe",
+    "page": 147,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 594,
+    "title": "Roho shuka tena",
+    "page": 147,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 595,
+    "title": "Roho shuka tena",
+    "page": 148,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 596,
+    "title": "Roho wa Bwana pokea sifa",
+    "page": 148,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 597,
+    "title": "Sitawaacha nyinyi",
+    "page": 148,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 598,
+    "title": "Twakuomba uje Roho",
+    "page": 148,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 599,
+    "title": "Uje roho Mtakatifu",
+    "page": 148,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 600,
+    "title": "Uje Roho Mt. tuangaze",
+    "page": 149,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 601,
+    "title": "Utushukie Roho",
+    "page": 149,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 602,
+    "title": "As we gather",
+    "page": 149,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 603,
+    "title": "Come and reign",
+    "page": 150,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 604,
+    "title": "Come holy ghost",
+    "page": 150,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 605,
+    "title": "Fire fire",
+    "page": 150,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 606,
+    "title": "Have your way",
+    "page": 150,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 607,
+    "title": "Holy Spirit come",
+    "page": 150,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 608,
+    "title": "Holy Spirit you are",
+    "page": 150,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 609,
+    "title": "If the Spirit of the Lord",
+    "page": 151,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 610,
+    "title": "Let your living waters",
+    "page": 151,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 611,
+    "title": "Living water flow on",
+    "page": 151,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 612,
+    "title": "Move in me",
+    "page": 151,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 613,
+    "title": "Oceans",
+    "page": 152,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 614,
+    "title": "Spirit of God",
+    "page": 152,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 615,
+    "title": "Spirit of the living God",
+    "page": 152,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 616,
+    "title": "Welcome Holy Spirit",
+    "page": 152,
+    "category": "HOLY SPIRIT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 617,
+    "title": "Alhamisi kuu",
+    "page": 153,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 618,
+    "title": "Binadamu inama kichwa",
+    "page": 153,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 619,
+    "title": "Kristu mshinda",
+    "page": 153,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 620,
+    "title": "Nakuabudu",
+    "page": 153,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 621,
+    "title": "Ninakuabudu ee Mungu",
+    "page": 153,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 622,
+    "title": "Ninakuabudu Mungu",
+    "page": 154,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 623,
+    "title": "Yesu Mkombozi",
+    "page": 154,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 624,
+    "title": "Down in adoration falling",
+    "page": 154,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 625,
+    "title": "Sacramenti kubwa hiyo",
+    "page": 154,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 626,
+    "title": "Atukuzwe Mungu",
+    "page": 155,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 627,
+    "title": "God head here in hiding",
+    "page": 155,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 628,
+    "title": "Holy God, we praise",
+    "page": 155,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 629,
+    "title": "Holy holy holy",
+    "page": 156,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 630,
+    "title": "O Sacrament most holy",
+    "page": 156,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 631,
+    "title": "Sweet Sacrament divine",
+    "page": 156,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 632,
+    "title": "O salutaris hostia",
+    "page": 157,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 633,
+    "title": "Tantum Ergo",
+    "page": 157,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 634,
+    "title": "Tuguitikia Ostiaini",
+    "page": 157,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 635,
+    "title": "Tukuikia Ostiani",
+    "page": 157,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 636,
+    "title": "The divine praises",
+    "page": 157,
+    "category": "BENEDICTION",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 637,
+    "title": "Itengenezeni njia ya Bwana",
+    "page": 158,
+    "category": "ADVENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 638,
+    "title": "Njoo kwetu, Masiya",
+    "page": 158,
+    "category": "ADVENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 639,
+    "title": "Tazama bikira",
+    "page": 158,
+    "category": "ADVENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 640,
+    "title": "Utujie, Masiya wetu",
+    "page": 158,
+    "category": "ADVENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 641,
+    "title": "Sauti ya Yohana",
+    "page": 158,
+    "category": "ADVENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 642,
+    "title": "Oh come Emmanuel",
+    "page": 159,
+    "category": "ADVENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 643,
+    "title": "Amezaliwa Yesu",
+    "page": 159,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 644,
+    "title": "Bwana Yesu kazaliwa",
+    "page": 159,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 645,
+    "title": "Mbali kule nasikia",
+    "page": 160,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 646,
+    "title": "Njoni, wapenzi",
+    "page": 160,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 647,
+    "title": "Yesu mwana wa Mungu",
+    "page": 160,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 648,
+    "title": "Away in a manger",
+    "page": 160,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 649,
+    "title": "Ding dong merrily on high",
+    "page": 161,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 650,
+    "title": "Feliz navidad",
+    "page": 161,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 651,
+    "title": "Go tell it on the mountain",
+    "page": 161,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 652,
+    "title": "God rest you merry",
+    "page": 161,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 653,
+    "title": "Hark the herald",
+    "page": 161,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 654,
+    "title": "Infant holy, infant lowly",
+    "page": 162,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 655,
+    "title": "Joy to the world",
+    "page": 162,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 656,
+    "title": "O come all ye faithful",
+    "page": 162,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 657,
+    "title": "O little town of bethlehem",
+    "page": 163,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 658,
+    "title": "Silent night",
+    "page": 163,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 659,
+    "title": "We three kings of orient",
+    "page": 163,
+    "category": "CHRISTMAS HYMNS",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 660,
+    "title": "Amin amin",
+    "page": 164,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 661,
+    "title": "Baba yangu, baba yangu",
+    "page": 164,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 662,
+    "title": "Bwana alipokwisha kula",
+    "page": 164,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 663,
+    "title": "Bwana u sehemu yangu",
+    "page": 164,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 664,
+    "title": "Bwana, unihifadhi mimi",
+    "page": 165,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 665,
+    "title": "Kesheni kila wakati",
+    "page": 165,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 666,
+    "title": "Kuteswa kwake Bwana",
+    "page": 165,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 667,
+    "title": "Lakini hata sasa",
+    "page": 165,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 668,
+    "title": "Mama pale msalabani",
+    "page": 166,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 669,
+    "title": "Msalabani Yesu alilia",
+    "page": 166,
+    "category": "LENT",
+    "toc_page": "PAGE XI"
+  },
+  {
+    "number": 670,
+    "title": "Nipokee Bwana nipokee",
+    "page": 166,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 671,
+    "title": "Pasipo makosa",
+    "page": 166,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 672,
+    "title": "Tazameni kule Kalvary",
+    "page": 167,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 673,
+    "title": "Twimbe, twimbe, jamani",
+    "page": 167,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 674,
+    "title": "Utukufu wa msalaba",
+    "page": 167,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 675,
+    "title": "Ninakulilia katika unyonge",
+    "page": 167,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 676,
+    "title": "And can it be",
+    "page": 168,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 677,
+    "title": "It is well, with my soul",
+    "page": 168,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 678,
+    "title": "It wasn't easy",
+    "page": 168,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 679,
+    "title": "Nearer my God",
+    "page": 168,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 680,
+    "title": "The old rugged cross",
+    "page": 169,
+    "category": "LENT",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 681,
+    "title": "Bwana Yesu kafufuka",
+    "page": 169,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 682,
+    "title": "Ikatetemeka nchi",
+    "page": 169,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 683,
+    "title": "Nimefufuka na bado",
+    "page": 169,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 684,
+    "title": "Njoni wapenzi",
+    "page": 170,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 685,
+    "title": "Tufurahi, ndugu",
+    "page": 170,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 686,
+    "title": "Yesu, mwana wa Mungu",
+    "page": 170,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 687,
+    "title": "All hail the power",
+    "page": 170,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 688,
+    "title": "Christ the Lord is risen",
+    "page": 171,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 689,
+    "title": "Jesus Christ is risen",
+    "page": 171,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 690,
+    "title": "They crucified my saviuor",
+    "page": 171,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 691,
+    "title": "Thine be the glory",
+    "page": 172,
+    "category": "EASTER HYMNS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 692,
+    "title": "Bwana akawaambia",
+    "page": 172,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 693,
+    "title": "Bwana amejaa",
+    "page": 172,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 694,
+    "title": "Bwana moyo wangu",
+    "page": 172,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 695,
+    "title": "Bwana ni mchunganji",
+    "page": 173,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 696,
+    "title": "Bwana ni nuru yangu",
+    "page": 173,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 697,
+    "title": "Ee mungu Mungu wangu",
+    "page": 173,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 698,
+    "title": "Fadhili za Bwana",
+    "page": 173,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 699,
+    "title": "Ingekuwa heri leo",
+    "page": 173,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 700,
+    "title": "Kando ya mito",
+    "page": 174,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 701,
+    "title": "Mchunga wangu",
+    "page": 174,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 702,
+    "title": "Mpigieni Mungu",
+    "page": 174,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 703,
+    "title": "Mshipi",
+    "page": 174,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 704,
+    "title": "Nitafurahi sana",
+    "page": 175,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 705,
+    "title": "Be still and know",
+    "page": 175,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 706,
+    "title": "My soul is longing",
+    "page": 175,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 707,
+    "title": "The lord' is my shepherd",
+    "page": 175,
+    "category": "PSALMS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 708,
+    "title": "Moyo Mtakatifu wa Yesu",
+    "page": 176,
+    "category": "SACRED HEART",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 709,
+    "title": "Moyo Mtakatifu wa Yesu",
+    "page": 176,
+    "category": "SACRED HEART",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 710,
+    "title": "Moyo mtukufu wa Yesu",
+    "page": 176,
+    "category": "SACRED HEART",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 711,
+    "title": "Moyo wako Yesu",
+    "page": 176,
+    "category": "SACRED HEART",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 712,
+    "title": "Nitaimba siku zote",
+    "page": 177,
+    "category": "SACRED HEART",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 713,
+    "title": "Heart of Christ",
+    "page": 177,
+    "category": "SACRED HEART",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 714,
+    "title": "Sweet heart of Jesus",
+    "page": 177,
+    "category": "SACRED HEART",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 715,
+    "title": "Umekosa nini Yesu",
+    "page": 178,
+    "category": "STATIONS OF THE CROSS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 716,
+    "title": "At the cross her station",
+    "page": 178,
+    "category": "STATIONS OF THE CROSS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 717,
+    "title": "Were you there",
+    "page": 179,
+    "category": "STATIONS OF THE CROSS",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 718,
+    "title": "Bwana asema",
+    "page": 180,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 719,
+    "title": "Bwana Yesu waniita",
+    "page": 180,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 720,
+    "title": "Enendeni ulimwenguni kote",
+    "page": 180,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 721,
+    "title": "Enendeni ulimwenguni",
+    "page": 181,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 722,
+    "title": "Mimi nimewachagua ninyi",
+    "page": 181,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 723,
+    "title": "Mungu ametuchagua",
+    "page": 181,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 724,
+    "title": "Ndipo niliposema",
+    "page": 181,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 725,
+    "title": "Nimemkuta Daudi",
+    "page": 181,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 726,
+    "title": "Ona mnavyopendeza",
+    "page": 182,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 727,
+    "title": "Nasikia sauti nzuri",
+    "page": 182,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 728,
+    "title": "Nimtume nani, unitume mimi",
+    "page": 182,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 729,
+    "title": "Nimtume nani",
+    "page": 182,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  },
+  {
+    "number": 730,
+    "title": "On this house",
+    "page": 183,
+    "category": "GENERAL",
+    "toc_page": "PAGE XII"
+  }
+]

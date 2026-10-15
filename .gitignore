@@ -1,0 +1,49 @@
+# Dependencies and generated web assets
+node_modules/
+www/
+
+# Android and Capacitor build output
+android/.gradle/
+android/**/build/
+android/local.properties
+android/app/src/main/assets/
+android/capacitor-cordova-android-plugins/
+
+# Local secrets and service credentials
+.env
+.env.*
+!.env.example
+google-services.json
+android/app/google-services.json
+*.jks
+*.keystore
+*.p12
+key.properties
+
+# Generated packages, databases, logs, and scratch files
+*.apk
+*.aab
+*.aar
+*.db
+*.log
+*.bak
+*.py[cod]
+__pycache__/
+tmp/
+
+# Intermediate Sauti scrape downloads; the app data is already in hymns.json
+assets/sauti/cache/
+assets/sauti/raw_html/
+assets/sauti/text/
+assets/sauti/sauti_songs.json
+assets/sauti/discovered_catalog.json
+
+# Local content audit and source-document exports
+Hymnal_Song_Corrections_and_Audit.*
+Hymnal_Song_Corrections_and_Clean_Text.md
+Hymn_Comparison_Mapping_730.xlsx
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/

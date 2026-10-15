@@ -1,0 +1,24 @@
+{
+  "name": "Catholic Chords",
+  "short_name": "Catholic Chords",
+  "description": "Offline-first choir hymn library from All Glory to Jesus.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbfcfa",
+  "theme_color": "#1b5b93",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
