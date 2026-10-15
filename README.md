@@ -22,7 +22,7 @@ npm run android:build
 
 The APK is written to `android/app/build/outputs/apk/debug/app-debug.apk`.
 
-The Android application ID is `org.vrcthika.choirhymns`. Release signing keys are local secrets and must not be committed to this repository.
+The Android application ID is `ke.co.catholicchoir.collaboration`. Release signing keys are local secrets and must not be committed to this repository.
 
 ## Content and attributions
 

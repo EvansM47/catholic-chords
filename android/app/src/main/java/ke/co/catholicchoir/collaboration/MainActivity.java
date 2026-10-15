@@ -1,4 +1,4 @@
-package org.vrcthika.choirhymns;
+package ke.co.catholicchoir.collaboration;
 
 import android.content.ClipData;
 import android.content.ClipboardManager;

@@ -7,14 +7,14 @@ if (releaseSigningFile.exists()) {
 }
 
 android {
-    namespace "org.vrcthika.choirhymns"
+    namespace "ke.co.catholicchoir.collaboration"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "org.vrcthika.choirhymns"
+        applicationId "ke.co.catholicchoir.collaboration"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 8
-        versionName "4.3.0"
+        versionCode 9
+        versionName "4.3.1"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.

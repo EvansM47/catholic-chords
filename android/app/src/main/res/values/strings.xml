@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">Catholic Chords</string>
     <string name="title_activity_main">Catholic Chords</string>
-    <string name="package_name">org.vrcthika.choirhymns</string>
-    <string name="custom_url_scheme">org.vrcthika.choirhymns</string>
+    <string name="package_name">ke.co.catholicchoir.collaboration</string>
+    <string name="custom_url_scheme">ke.co.catholicchoir.collaboration</string>
 </resources>
